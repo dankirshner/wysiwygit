@@ -1,1 +1,23 @@
-(Skeleton for README file)
+Wysiwygit is an implementation of the popular CKEditor browser-based text 
+editor.  Wysiwygit allows users to edit web-page content in place.  Wysiwygit 
+can be installed without any changes to existing web pages.  
+
+Features
+
+    Includes all current styling in editing window – what you edit is what you 
+    get!
+
+    User can select portions of a page to edit (divs).
+
+    Upload images and other files to directories that the user can choose.
+
+    Specify "off-limits" directories.
+
+    Backup/restore -- older versions of all site pages are saved, and can be 
+    restored by users.
+
+    Create users - regular and administrative. Administrative users can create 
+    and delete user accounts.
+
+    Specify ids and/or classes of divs that cannot be edited by users.
+
