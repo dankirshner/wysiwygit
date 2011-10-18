@@ -1,6 +1,12 @@
-The standard setup is to install the wysiwygit and ckeditor directories in your 
-site's home directory.  This way all of your site's files may be edited.
+The standard setup is to install the wysiwygit directory in your site's home 
+directory.  This way any of your site's files may be edited.  In this case you
+would access wysiwygit in your browser with http://<your site URL>/wysiwygit
 
-An alternative setup is to install the wysiwygit and ckeditor directories 
-in a subdirectory on your site.  In this case only files and subdirectories
-within that subdirectory may be edited.
+
+An alternative setup is to install the wysiwygit directory in a subdirectory 
+on your site.  In this case only files and subdirectories within that 
+subdirectory may be edited.
+
+
+The initial administrative user has user name "admin" and password "admin". 
+Be sure to change this!

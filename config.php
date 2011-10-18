@@ -8,12 +8,6 @@
 $edit_all_body = false;
 
 /* ---------------------------------------------------------------------------- * Div ids or classes that will be excluded from editing.
- * Name of directory containing CKEditor.  This should be the modified version
- * that came with Wygiwygit.
- */
-$ckeditor_dir = 'ckeditor';
-
-/* ---------------------------------------------------------------------------- * Div ids or classes that will be excluded from editing.
  * Ids indicated with "#"; classes indicated with ".".
  *
  * Note: class "noedit" is excluded by default.

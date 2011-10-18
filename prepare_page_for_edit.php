@@ -173,7 +173,7 @@ $dke_script = "$script_relative_path/wysiwygit.js";
 if (! isset($ckeditor_dir)) {
    $ckeditor_dir = 'ckeditor';
 }
-$cke_script = "$script_relative_path/../$ckeditor_dir/ckeditor.js";
+$cke_script = "$script_relative_path/ckeditor/ckeditor.js";
 
 if ($debug[0]) {
    my_error_log("[prepare_page_for_edit.php] tmpfile_fullpath: " . $tmpfile_fullpath);
