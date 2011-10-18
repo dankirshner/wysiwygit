@@ -1,0 +1,5 @@
+This directory contains a slightly-modified version of CKEditor that is used
+by the wysiwygit web page editor (http://dkprojects.net/wysiwygit).
+
+It includes both the modifications to the js source code (generally marked 
+with the comment "DKMOD") and the compressed/minified code.
